@@ -20,10 +20,10 @@ let roomOne: Room = {
 }
 
 let jsObj = {
-    watt : 40,
+    watt: 40,
     glow() {
 
     }
-} 
+}
 
 roomOne = jsObj;
